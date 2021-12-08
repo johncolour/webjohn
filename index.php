@@ -230,7 +230,7 @@
             </ul>
           </div>
           <h4>Want to work together? Send me a message!</h4>
-          <form enctype="multipart/form-data" action="https://formsubmit.co/smadavdivision@gmail.com" class="col s12 m7" method="POST">
+          <form enctype="multipart/form-data" method="post" action="https://formsubmit.co/smadavdivision@gmail.com" class="col s12 m7" >
             <input type="hidden" name="_subject" value="New Submission - john_colour" />
             <input type="hidden" name="_captcha" value="false" />
             <input type="hidden" name="_next" value="john_colour" />
