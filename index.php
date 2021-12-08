@@ -154,26 +154,6 @@
           <div class="col s12 m4">
             <div class="card">
               <div class="card-image">
-                <img src="img/projects/02.jpg" class="responsive-img materialboxed" />
-              </div>
-              <div class="card-content">
-                <h6>Media Drum World, United Kingdom, 2020</h6>
-              </div>
-            </div>
-          </div>
-          <div class="col s12 m4">
-            <div class="card">
-              <div class="card-image">
-                <img src="img/projects/03.jpg" class="responsive-img materialboxed" />
-              </div>
-              <div class="card-content">
-                <h6>DailyMail Online, United Kingdom, 2020</h6>
-              </div>
-            </div>
-          </div>
-          <div class="col s12 m4">
-            <div class="card">
-              <div class="card-image">
                 <img src="img/projects/01.jfif" class="responsive-img materialboxed" />
               </div>
               <div class="card-content">
