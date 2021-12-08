@@ -1,0 +1,13 @@
+.clients img {
+  max-width: 300px;
+  filter: drop-shadow(1px, 1px, 1px rgba(0, 0, 0, 0.5));
+  padding-top: 30px;
+}
+section {
+  padding-top: 20px;
+}
+
+nav ul a:hover {
+  background-color: darkgoldenrod;
+  color: black;
+}
