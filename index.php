@@ -182,8 +182,8 @@
       <h3 class="center light text-darken-3 header">Notable works</h3>
         <div class ="row center">
           <div class="col s12 m12">
-      <a data-flickr-embed="true" href="https://www.flickr.com/photos/164847977@N08/albums/72157716228567026" title="Netherlands East Indies in Colour">
-        <img src="https://live.staticflickr.com/65535/50410593363_a22f064b08_b.jpg" width="1024" height="768" alt="Netherlands East Indies in Colour">
+      <a data-flickr-embed="true" href="https://www.flickr.com/photos/164847977@N08/albums/72157716228567026" title="Gallery" class="responsive-img">
+        <img src="https://live.staticflickr.com/65535/50410593363_a22f064b08_b.jpg" width="1024" height="768" class="responsive-img">
       </a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
       </div>
       </div>
