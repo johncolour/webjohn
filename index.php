@@ -233,7 +233,7 @@
           <form enctype="multipart/form-data" method="post" action="https://formsubmit.co/smadavdivision@gmail.com" class="col s12 m7" >
             <input type="hidden" name="_subject" value="New Submission - john_colour" />
             <input type="hidden" name="_captcha" value="false" />
-            <input type="hidden" name="_next" value="john_colour" />
+            <input type="hidden" name="_next" value="https://john-colour.herokuapp.com/" />
             <div class="row">
               <div class="input-field col s12">
                 <input name="name" type="text" class="validate" required />
