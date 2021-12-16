@@ -182,9 +182,10 @@
       <h3 class="center light text-darken-3 header">Notable works</h3>
         <div class ="row center">
           <div class="col s12 m12">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/164847977@N08/albums/72157720234754981" title="Indonesian War of Indepedence" class=”responsive-img”>
-      <img src="https://live.staticflickr.com/65535/51731981460_60a7539170_h.jpg" width="1600" height="1200" class=”responsive-img”>
+            <a data-flickr-embed="true" href="https://www.flickr.com/photos/164847977@N08/albums/72157720234754981" class="responsive-img">
+            <img src="https://live.staticflickr.com/65535/51731981460_7dbbdba839_b.jpg" width="1024" height="768" class="responsive-img">
             </a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
       </div>
       </div>
     </section>
